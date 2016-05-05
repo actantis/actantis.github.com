@@ -792,9 +792,9 @@ header p {
 }
 
 section {
-  width: 650px;
+  width: 645px;
   padding: 30px 30px 50px 30px;
-  margin: 10px 0;
+  margin: 0px 0;
   margin-top: 190px;
   position: relative;
   background: #fbfbfb;
